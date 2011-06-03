@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tmx version="1.4">
+	<body>
+		<tu tuid="FOO">
+			<tuv lang="en">
+				<seg>foo</seg>
+			</tuv>
+			<tuv lang="fi">
+				<seg>fifoo</seg>
+			</tuv>
+		</tu>
+		<tu tuid="BAR">
+			<tuv lang="en">
+				<seg>bar</seg>
+			</tuv>
+			<tuv lang="fi">
+				<seg>fibar</seg>
+			</tuv>
+		</tu>
+	</body>
+</tmx>

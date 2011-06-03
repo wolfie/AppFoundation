@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Vaadin-License-Title: Apache 2.0
+Implementation-Vendor: Kim Leppänen
+Implementation-Title: AppFoundation
+Implementation-Version: 1.3.5
+Vaadin-Package-Version: 1
+Class-Path: 
+

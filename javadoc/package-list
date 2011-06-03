@@ -1,0 +1,11 @@
+org.vaadin.appfoundation.authentication
+org.vaadin.appfoundation.authentication.data
+org.vaadin.appfoundation.authentication.exceptions
+org.vaadin.appfoundation.authentication.util
+org.vaadin.appfoundation.authorization
+org.vaadin.appfoundation.authorization.jpa
+org.vaadin.appfoundation.authorization.memory
+org.vaadin.appfoundation.i18n
+org.vaadin.appfoundation.persistence.data
+org.vaadin.appfoundation.persistence.facade
+org.vaadin.appfoundation.view

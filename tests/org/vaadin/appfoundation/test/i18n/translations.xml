@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tmx version="1.4">
+	<body>
+		<tu tuid="GENERIC_NAME">
+			<tuv lang="en">
+				<seg>test1</seg>
+			</tuv>
+			<tuv lang="fi">
+				<seg>testi1</seg>
+			</tuv>
+		</tu>
+		<tu tuid="GENERIC_PASSWORD">
+			<tuv lang="en">
+				<seg>test2</seg>
+			</tuv>
+			<tuv lang="fi">
+				<seg>testi2</seg>
+			</tuv>
+		</tu>
+		<tu tuid="TEST">
+			<tuv lang="en">
+				<seg>Foo {0} bar {1}</seg>
+			</tuv>
+		</tu>
+	</body>
+</tmx>

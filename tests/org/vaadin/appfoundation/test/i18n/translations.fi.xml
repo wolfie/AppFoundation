@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tmx version="1.4">
+	<body>
+		<tu tuid="GENERIC_NAME">
+			<tuv lang="fi">
+				<seg>Nimi</seg>
+			</tuv>
+		</tu>
+		<tu tuid="GENERIC_PASSWORD">
+			<tuv lang="fi">
+				<seg>Salasana</seg>
+			</tuv>
+		</tu>
+	</body>
+</tmx>
